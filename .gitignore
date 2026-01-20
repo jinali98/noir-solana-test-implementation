@@ -1,11 +1,11 @@
 .claude/
 .vscode/
-# **/target/
-# !**/target/*.json
+**/target/
+!**/target/*.json
 **/target/*-keypair.json
-# !**/target/*.ccs
-# !**/target/*.pk
-# !**/target/*.vk
+!**/target/*.ccs
+!**/target/*.pk
+!**/target/*.vk
 **/node_modules/
 **/keypair/
 .DS_Store
